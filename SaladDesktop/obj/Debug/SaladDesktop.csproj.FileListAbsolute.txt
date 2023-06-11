@@ -1,0 +1,11 @@
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.csproj.AssemblyReference.cache
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.Properties.Resources.resources
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.csproj.GenerateResource.cache
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Semen\source\repos\SaladDesktop\bin\Debug\SaladDesktop.exe.config
+C:\Users\Semen\source\repos\SaladDesktop\bin\Debug\SaladDesktop.exe
+C:\Users\Semen\source\repos\SaladDesktop\bin\Debug\SaladDesktop.pdb
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.exe
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.pdb
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.Form1.resources
+C:\Users\Semen\source\repos\SaladDesktop\obj\Debug\SaladDesktop.AddForm.resources
